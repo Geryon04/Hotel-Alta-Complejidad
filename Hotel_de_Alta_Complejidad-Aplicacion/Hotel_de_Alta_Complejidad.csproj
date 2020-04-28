@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Hotel_de_Alta_Complejidad_Aplicacion</RootNamespace>
+  </PropertyGroup>
+
+
+</Project>

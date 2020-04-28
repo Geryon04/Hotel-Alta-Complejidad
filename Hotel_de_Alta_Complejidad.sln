@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel_de_Alta_Complejidad", "Hotel_de_Alta_Complejidad-Aplicacion\Hotel_de_Alta_Complejidad.csproj", "{5E9D860C-B3E7-4D61-8F84-677790860E0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{582C7CD6-A05E-4DCE-BB62-AC84AE6D67F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{FBDB8F65-6E13-4A02-843C-B0EF834B790D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{F09B4552-F69D-4F65-BF9C-3BA3B5DD8620}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraestructure", "{7F35FC97-7A4F-439E-A0AD-567DFC7595E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAC_aplicacion", "HAC_aplicacion\HAC_aplicacion.csproj", "{2CF49C40-4B62-464A-8956-81FFB390BD1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9D860C-B3E7-4D61-8F84-677790860E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9D860C-B3E7-4D61-8F84-677790860E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9D860C-B3E7-4D61-8F84-677790860E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9D860C-B3E7-4D61-8F84-677790860E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF49C40-4B62-464A-8956-81FFB390BD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF49C40-4B62-464A-8956-81FFB390BD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF49C40-4B62-464A-8956-81FFB390BD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF49C40-4B62-464A-8956-81FFB390BD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E9D860C-B3E7-4D61-8F84-677790860E0E} = {582C7CD6-A05E-4DCE-BB62-AC84AE6D67F2}
+		{2CF49C40-4B62-464A-8956-81FFB390BD1F} = {FBDB8F65-6E13-4A02-843C-B0EF834B790D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F9F61E-8F28-48F8-9F42-7C4E231468D2}
+	EndGlobalSection
+EndGlobal
